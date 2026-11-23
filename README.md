@@ -9,12 +9,14 @@ Entry for the [make.fun](https://make.fun) competition
 in one image.
 
 `main.ts` (Node 22, standard library only, no network) draws a 1024x1024
-front page: masthead with the date, a lead story, a stylised world map with
-numbered pins, and an index of 48 stories from 7 regions — Middle East,
-Europe, Asia-Pacific, Americas, Africa, Global and Sport — plus a DATE CHECK
-footer listing the big stories left out because they happened or were first
-reported before 22 November 2026. Every story was researched from reporting
-dated 22 November 2026 (BBC, Reuters, AP, Times of India, USGS).
+front page: masthead with the date, a lead story (COP31 collapses with no
+deal in Antalya), a stylised world map with region pins, and an index of 36
+stories from 7 regions — Middle East, Europe, Africa, Asia-Pacific,
+Americas, Global and Sport — plus a DATE CHECK footer listing the big stories
+left out because they happened or were first reported before 22 November
+2026. Every story was researched from reporting dated 22 November 2026
+(BBC, Reuters, AP, AFP, Al Jazeera, Variety, FlightAware, UKMTO). Claims
+marked unproven in the image are asserted, not independently confirmed.
 
 ## Run
 
